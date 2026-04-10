@@ -1,1 +1,1 @@
-https://kaauwix.github.io/zakrivayuschiy-teg-ad/
+https://github.com/kaauwix/zakrivayuschiy-teg-ad
